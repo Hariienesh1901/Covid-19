@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+body {
+    background-color: red;
+}
+
+.beware h1 {
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+
+.beware img {
+    width: 250px;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.aboutcovid h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 300px;
+    text-align: center;
+    font-size: 80px; 
+}
+
+.aboutcovid p {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.aboutcovid h4 {
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.aboutcovid a {
+    text-decoration: none;
+    color: blue;
+}
+
+
+.tips h2 {
+    font-family: 'Acme', sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+
+.tips ul li {
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 25px;
+}
